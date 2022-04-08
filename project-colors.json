@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1d7be687-7131-436d-ae2c-28c018a13b33": {
+      "ProjectGuid": "1d7be687-7131-436d-ae2c-28c018a13b33",
+      "DisplayName": "DAO",
+      "ColorIndex": 0
+    },
+    "d6b3cda8-5475-4761-a513-99d910cbabf3": {
+      "ProjectGuid": "d6b3cda8-5475-4761-a513-99d910cbabf3",
+      "DisplayName": "BUS",
+      "ColorIndex": 1
+    },
+    "099ea824-3dc4-416c-9740-a31b6a8c50b5": {
+      "ProjectGuid": "099ea824-3dc4-416c-9740-a31b6a8c50b5",
+      "DisplayName": "QuanLyHocSinh",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
